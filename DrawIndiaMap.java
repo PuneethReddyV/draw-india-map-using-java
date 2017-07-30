@@ -1,6 +1,6 @@
 package com.hpe.itio.automation;
 
-public class Test {
+public class DrawIndiaMap {
 public static void main(String[] args) {
 	int a = 10, b = 0, c = 10;
 	String str = "TFy!QJu ROo TNn(ROo)SLq SLq ULo+UHs UJq "+
